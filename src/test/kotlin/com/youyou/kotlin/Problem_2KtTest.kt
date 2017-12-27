@@ -3,7 +3,7 @@ package com.youyou.kotlin
 import org.junit.Test
 import org.junit.jupiter.api.Assertions
 
-class Problem_2KtTest {
+internal class Problem_2KtTest {
 
     @Test
     fun shouldSumAllFibonnaciTermsBelow10() {

@@ -13,7 +13,9 @@ Result is ${sumAllEvenFibonnaciTermsBelow(4000000) }
 }
 
 
+
 fun sumAllFibonnaciTermsBelow(number: Int, filter: (Int) -> Boolean):Int {
+
     var condition = true
     var previousElement = 1
     var fibonacciElement = 2

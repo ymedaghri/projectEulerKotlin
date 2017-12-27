@@ -4,7 +4,7 @@ import org.junit.Test
 import org.junit.jupiter.api.Assertions
 import kotlin.test.assertEquals
 
-class Problem_1Test {
+internal class Problem_1Test {
 
     @Test
     fun shouldFindTheSumOfAllMultipleOfThreeOrFiveBelow1000()
